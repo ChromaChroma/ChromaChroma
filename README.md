@@ -16,14 +16,13 @@ This is a school project commisioned to us of [CIMSOLUTIONS](https://www.cimsolu
 ### 🌱 I’m currently learning ...
 - To work with Continious Integration and how to increase and insure software quality.  
 
-## ⚡ Github stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaChroma&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 How to reach me
 If you are interested in contacting me, you can reach me:  
 - by [e-mail](mailto:jona.beer@gmail.com?subject=[GitHub]%20Contact%20through%20profile)
 - via [LinkedIn](https://www.linkedin.com/in/jona-leeflang/)
 
+## ⚡ Github stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaChroma&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChromaChroma/ChromaChroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
