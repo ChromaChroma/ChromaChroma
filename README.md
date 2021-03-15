@@ -22,7 +22,7 @@ If you are interested in contacting me, you can reach me:
 - via [LinkedIn](https://www.linkedin.com/in/jona-leeflang/)
 
 ## ⚡ Github stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaChroma&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaChroma&show_icons=true&theme=darcula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChromaChroma/ChromaChroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
