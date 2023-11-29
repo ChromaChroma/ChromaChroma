@@ -1,4 +1,4 @@
-My name is Jona Leeflang. Online known as Chroma or ChromaChroma. I completed my BSc degree HBO-ICT at the  [University of Applied Sciences Utrecht](https://www.internationalhu.com/)
+My name is Jona Leeflang. Online known as Chroma or ChromaChroma. I completed my BSc degree HBO-ICT at the  [University of Applied Sciences Utrecht](https://www.internationalhu.com/). 
 Now I am continuing my involvement in research with a MSc degree in Computing Science at the [University Utrecht](https://www.uu.nl/en/masters/computing-science).
 
 
