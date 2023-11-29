@@ -8,7 +8,7 @@ Now I am continuing my involvement in research with a MSc degree in Computing Sc
 - [Bartap](https://github.com/tungstun-ict). Together with a friend of mine, [Jort Willemsen](https://github.com/JortWillemsen), I have developed an application for (private) bar managements.
   This includes adding products, maintaining sessions during drinking, managing payments (not automated). I am responsible for the backend API of the project. 
 
-- [Functional PacMan](https://github.com/ChromaChroma/haskell-game). An implementation of the classical PacMan game using Haskell and Gloss. The implementation is backed by a dynamic tile loading mechnism that determines the sprite to load based on the level tile layout, allowing custom levels. (No custom level editor yet)
+- [Functional PacMan](https://github.com/ChromaChroma/Functional-Pacman). An implementation of the classical PacMan game using Haskell and Gloss. The implementation is backed by a dynamic tile loading mechnism that determines the sprite to load based on the level tile layout, allowing custom levels. (No custom level editor yet)
 
 - CimSessions. An application to sign up for knowledge sessions and monitor the interest in sessions following BI & Data Science.  
   This was a school project commisioned to us by [CIMSOLUTIONS](https://www.cimsolutions.nl/).
