@@ -1,9 +1,5 @@
-### Hi there 👋
-
-## About me  
-My name is Jona Leeflang. Online commonly named as Chroma or ChromaChroma.
-I graduated cum laude for my bachelor degree HBO-ICT at the University of applied sciences of Utrecht (HU).
-Currently I am continuing my research experience with a masters degree in Computing Science at the University Utrecht.
+My name is Jona Leeflang. Online known as Chroma or ChromaChroma. I completed my BSc degree HBO-ICT at the  [University of Applied Sciences Utrecht](https://www.internationalhu.com/)
+Now I am continuing my involvement in research with a MSc degree in Computing Science at the [University Utrecht](https://www.uu.nl/en/masters/computing-science).
 
 
 ## ✔️ Previous projects
@@ -18,12 +14,6 @@ Currently I am continuing my research experience with a masters degree in Comput
 
 ## 🔭 I’m currently working on 
 - Cyclist Avoidance. A project with 4 others to introduce a cyclist comfort zone based collision avoidance for agent-based cyclist simulation. This project will include a simple simulation application.
-
-
-## 📫 How to reach me
-If you are interested in working together or just contacting me, you can reach me:  
-- by [e-mail](mailto:jona.beer@gmail.com?subject=[GitHub]%20Contact%20through%20profile)
-- via [LinkedIn](https://www.linkedin.com/in/jona-leeflang/)
 
 ## ⚡ Github stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChromaChroma&show_icons=true&theme=darcula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
